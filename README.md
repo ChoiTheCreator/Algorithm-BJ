@@ -22,7 +22,7 @@
 -> 이거 다 더하고싶다 (배열의 값 다 더하고 싶다) 반복문 쓰던가, reduce((acc,cur)) 쓰던가 하면 될거같은데요
 -> 근데 ParseFloat() vs Number() -> 전자는 보수적임 (ParseFloat('') -> NaN , Number('') -> 0) 
 -> Regexing 한다면 Number()이 좀 더 현명하겠네요 ㅅㄱㅇ
--
+
 
 
 ---
